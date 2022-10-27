@@ -50,13 +50,23 @@ header{
     padding: 25px;
     font-weight: bold;
 }
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
     header {
-      display: none;
+        display: none;
+      width: 100%;
+     }
+     .footer1 {
+        display: none;
+      width: 100%;
+      }
+} */
+/* @media screen and(max-width:798px) and(max-width:1024px) {
+    .nav1{
+        width: 100%;
+        display: flex;
+       flex-wrap: wrap;
     }
-}
-@media screen and (max-width: 700px) {
-    .footer1 {
-      display: none;
-    }
-}
+} */
+
+
+
